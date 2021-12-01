@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { Logo } from "components/icons/logo"
+import { Logo } from "components/icons"
 import {BrandStyles} from "./styles"
 
 
